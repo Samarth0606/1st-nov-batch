@@ -1,0 +1,55 @@
+/* absolute units */
+/* div{
+    width: 500px;
+    border: 2px solid black;
+} */
+
+
+
+/* relative */
+
+/* section{
+    width: 500px;
+    background-color: red;
+} */
+
+/* div{ */
+    /*(dependant)*/
+    /* width: 50%;      
+    background-color: green;           
+    border: 2px solid black;
+} */
+
+/* ----------------------- */
+
+/* em (parent) */
+
+
+/* 2em = 2 * em */
+
+/* ul>li{
+    color: red;
+    font-size: 50px;
+    border: 2px solid black;  */
+    /*non inherited property*/
+/* } */
+
+
+/* ul>li{ */
+    /* font-size: 2em; */
+    /* font-size: 2rem;  */
+    /*16*2*/
+/* } */
+
+
+
+section{
+    background-color: red;
+    width: 50vw;
+    height: 50vh;
+}
+
+
+
+
+

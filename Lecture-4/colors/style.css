@@ -1,0 +1,12 @@
+h1{
+    color: rgb(255, 128, 0);
+}
+h2{
+    /* alpha channel -> [0-1] */
+    color: rgba(255, 128, 0, 0.5);
+}
+h3{
+    /* hexadecimal */
+    /* color: #e4b10a00; */
+    color: #e4b10a4f;
+}
